@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.DataTable Name="DatingSimList"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   RowStruct=UserDefinedStruct'"/Game/2DSideScrollerBP/VN_SceneStruct.VN_SceneStruct"'
+   AssetImportData=AssetImportData'"AssetImportData"'
+   RowStructName="VN_SceneStruct"
+End Object

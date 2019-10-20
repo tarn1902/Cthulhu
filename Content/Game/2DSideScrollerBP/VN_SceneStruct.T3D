@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.UserDefinedStruct Name="VN_SceneStruct"
+   Begin Object Class=/Script/CoreUObject.ByteProperty Name="Speaker_2_9FC242114939B50C088A318689992646"
+   End Object
+   Begin Object Class=/Script/CoreUObject.StrProperty Name="Text_7_AF9067FE43A36B72486F0B812F5B5B26"
+   End Object
+   Begin Object Class=/Script/CoreUObject.IntProperty Name="CharPosition_11_8ABF981D4B59D9751FA411B0114B27BF"
+   End Object
+   Begin Object Class=/Script/UnrealEd.UserDefinedStructEditorData Name="UserDefinedStructEditorData_0"
+   End Object
+   Begin Object Name="Speaker_2_9FC242114939B50C088A318689992646"
+   End Object
+   Begin Object Name="Text_7_AF9067FE43A36B72486F0B812F5B5B26"
+   End Object
+   Begin Object Name="CharPosition_11_8ABF981D4B59D9751FA411B0114B27BF"
+   End Object
+   Begin Object Name="UserDefinedStructEditorData_0"
+      UniqueNameId=12
+      VariablesDescriptions(0)=(VarName="Speaker_2_9FC242114939B50C088A318689992646",VarGuid=9FC242114939B50C088A318689992646,FriendlyName="Speaker",DefaultValue="NewEnumerator1",Category="byte",SubCategoryObject=/Game/2DSideScrollerBP/CharacterList.CharacterList,CurrentDefaultValue="NewEnumerator1")
+      VariablesDescriptions(1)=(VarName="Text_7_AF9067FE43A36B72486F0B812F5B5B26",VarGuid=AF9067FE43A36B72486F0B812F5B5B26,FriendlyName="Text",Category="string")
+      VariablesDescriptions(2)=(VarName="CharPosition_11_8ABF981D4B59D9751FA411B0114B27BF",VarGuid=8ABF981D4B59D9751FA411B0114B27BF,FriendlyName="CharPosition",Category="int")
+   End Object
+   EditorData=UserDefinedStructEditorData'"UserDefinedStructEditorData_0"'
+   Guid=0C3ADC68495919405770B087BEC0B7B9
+End Object

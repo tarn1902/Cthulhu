@@ -1,0 +1,22 @@
+Begin Object Class=/Script/Paper2D.PaperSprite Name="AXmcNTg_Sprite"
+   Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_0"
+   End Object
+   Begin Object Name="BodySetup_0"
+      AggGeom=(BoxElems=((TM=(XPlane=(W=0.000000,X=0.000000,Y=0.000000,Z=0.000000),YPlane=(W=0.000000,X=7.040047,Y=0.000000,Z=0.000000),ZPlane=(W=0.000000,X=0.000000,Y=0.000000,Z=-nan),WPlane=(W=0.000000,X=7.041756,Y=0.000000,Z=0.000000)),Center=(X=0.000000,Y=0.000000,Z=0.500000),X=450.000000,Y=10.000000,Z=847.000000)))
+      CollisionTraceFlag=CTF_UseSimpleAsComplex
+      DefaultInstance=(ObjectType=ECC_WorldDynamic,CollisionProfileName="BlockAllDynamic")
+   End Object
+   SourceTextureDimension=(X=450.000000,Y=847.000000)
+   SourceDimension=(X=450.000000,Y=847.000000)
+   SourceTexture=Texture2D'"/Game/2DSideScrollerBP/AXmcNTg.AXmcNTg"'
+   PixelsPerUnrealUnit=1.000000
+   BodySetup=BodySetup'"BodySetup_0"'
+   CollisionGeometry=(Shapes=((Vertices=((X=-225.000000,Y=-423.500000),(X=225.000000,Y=-423.500000),(X=225.000000,Y=423.500000),(X=-225.000000,Y=423.500000)),BoxSize=(X=450.000000,Y=847.000000),BoxPosition=(X=225.000000,Y=423.500000))))
+   RenderGeometry=(Shapes=((Vertices=((X=-225.000000,Y=-423.500000),(X=225.000000,Y=-423.500000),(X=225.000000,Y=423.500000),(X=-225.000000,Y=423.500000)),BoxSize=(X=450.000000,Y=847.000000),BoxPosition=(X=225.000000,Y=423.500000))))
+   BakedRenderData(0)=(X=225.000000,Y=424.000000,Z=1.000000,W=0.000000)
+   BakedRenderData(1)=(X=-225.000000,Y=424.000000,Z=0.000000,W=0.000000)
+   BakedRenderData(2)=(X=-225.000000,Y=-423.000000,Z=0.000000,W=1.000000)
+   BakedRenderData(3)=(X=225.000000,Y=-423.000000,Z=1.000000,W=1.000000)
+   BakedRenderData(4)=(X=225.000000,Y=424.000000,Z=1.000000,W=0.000000)
+   BakedRenderData(5)=(X=-225.000000,Y=-423.000000,Z=0.000000,W=1.000000)
+End Object
